@@ -1,0 +1,19 @@
+<svg version="1.1" viewBox="0 0 9 9" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient id="linearGradient17950" x1="-481.5" x2="-487.5" y1="770.5" y2="764.5" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient8822"/>
+<linearGradient id="linearGradient8822">
+<stop stop-color="#c5bcac" offset="0"/>
+<stop stop-color="#fff" offset="1"/>
+</linearGradient>
+</defs>
+<g transform="translate(-862.43 -1096)">
+<g id="tree-minus-normal" transform="matrix(.77778 0 0 .77778 1242.8 502.6)">
+<rect x="-488.5" y="763.5" width="8" height="8" fill="url(#linearGradient17950)" stroke="#7898b5" stroke-linecap="round"/>
+<path d="m-487 767v1h5v-1z" fill="#3c3c3c"/>
+</g>
+<g transform="matrix(.77778 0 0 .77778 1244.8 504.6)">
+<rect x="-488.5" y="763.5" width="8" height="8" fill="url(#linearGradient17950)" stroke="#7898b5" stroke-linecap="round"/>
+<path d="m-487 767v1h5v-1z" fill="#3c3c3c"/>
+</g>
+</g>
+</svg>

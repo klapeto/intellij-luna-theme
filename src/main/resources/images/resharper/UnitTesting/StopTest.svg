@@ -1,0 +1,45 @@
+<svg version="1.1" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<filter id="filter965-3" x="-.1539" y="-.10227" width="1.3078" height="1.2045" color-interpolation-filters="sRGB">
+<feGaussianBlur stdDeviation="9.6233508"/>
+</filter>
+<linearGradient id="linearGradient1411" x1="177.38" x2="177.38" y1="215.14" y2="137.04" gradientUnits="userSpaceOnUse">
+<stop stop-color="#38d929" offset="0"/>
+<stop stop-color="#62e052" offset="1"/>
+</linearGradient>
+<linearGradient id="linearGradient1327" x1="220.45" x2="261.63" y1="180.81" y2="180.81" gradientUnits="userSpaceOnUse">
+<stop stop-color="#62e052" offset="0"/>
+<stop stop-color="#fff" offset="1"/>
+</linearGradient>
+<linearGradient id="linearGradient863" x1="211.53" x2="244.54" y1="148.02" y2="67.298" gradientUnits="userSpaceOnUse">
+<stop stop-color="#38d929" offset="0"/>
+<stop stop-color="#fff" offset="1"/>
+</linearGradient>
+<filter id="filter933" x="-.048" y="-.048" width="1.096" height="1.096" color-interpolation-filters="sRGB">
+<feGaussianBlur stdDeviation="4.8361916"/>
+</filter>
+<linearGradient id="linearGradient1492-3" x1="-.98494" x2="-4.1304" y1="7.7993" y2="3.9215" gradientTransform="matrix(40.715 0 0 40.715 238.4 -118.88)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#c92900" offset="0"/>
+<stop stop-color="#f30" offset=".7"/>
+<stop stop-color="#ff8769" offset="1"/>
+</linearGradient>
+<linearGradient id="linearGradient903-3" x1="28.65" x2="18.284" y1="12.93" y2="1.4135" gradientTransform="matrix(14.791 0 0 14.791 -195.56 -2.3955)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#941e00" offset="0"/>
+<stop stop-color="#f30" offset="1"/>
+</linearGradient>
+</defs>
+<g transform="matrix(.58868 0 0 .58868 -36.713 -6.4371)" stroke-linejoin="round">
+<path d="m164.12 28.982a5.0005 5.0005 0 0 0-3.541 1.4785l-79.598 80.215a5.0005 5.0005 0 0 0-0.01172 0.0215 5.0005 5.0005 0 0 0-1.1562 2.0527 5.0005 5.0005 0 0 0-0.12305 0.62891 5.0005 5.0005 0 0 0-0.16016 0.81836v80.215a5.0005 5.0005 0 0 0 1.5996 3.6641l59.854 55.533a5.0005 5.0005 0 0 0 0.24806 0.14062 5.0005 5.0005 0 0 0 0.97851 0.55469 5.0005 5.0005 0 0 0 1.0566 0.45312 5.0005 5.0005 0 0 0 1.1367 0.0586 5.0005 5.0005 0 0 0 1.1387-0.0703 5.0005 5.0005 0 0 0 1.0508-0.45703 5.0005 5.0005 0 0 0 0.97852-0.57226 5.0005 5.0005 0 0 0 0.26368-0.1543l80.215-76.512a5.0005 5.0005 0 0 0 1.5488-3.6191v-78.98a5.0005 5.0005 0 0 0-0.0176-0.09375 5.0005 5.0005 0 0 0-0.33399-1.6992 5.0005 5.0005 0 0 0-0.0488-0.13867 5.0005 5.0005 0 0 0-1.002-1.5293 5.0005 5.0005 0 0 0-0.0332-0.03711 5.0005 5.0005 0 0 0-0.0293-0.03711l-60.469-60.469a5.0005 5.0005 0 0 0-3.5449-1.4648z" color="#000000" filter="url(#filter965-3)" opacity=".83" stroke-linecap="round" stroke-width="10" style="-inkscape-stroke:none"/>
+<g transform="matrix(-1.1214,0,0,1.1214,368.62,-23.716)" stroke-width="8.9176">
+<path d="m212.44 159.47-71.532-66.58v70.431l71.532 68.23z" fill="url(#linearGradient1411)" stroke="#00bd00" stroke-linecap="round"/>
+<path d="m212.44 159.47 53.374-48.972v71.532l-53.374 49.522z" fill="url(#linearGradient1327)" stroke="#20b520"/>
+<path d="m140.91 92.892 53.924-53.924 70.982 71.532-53.374 48.972z" fill="url(#linearGradient863)" stroke="#1fad1f" stroke-linecap="round"/>
+</g>
+</g>
+<g transform="matrix(.67879 0 0 .67879 74.765 73.038)">
+<path d="m138.57 4.096c-66.715 0-120.91 54.19-120.91 120.9 0 66.715 54.192 120.9 120.91 120.9 66.55 0 120.61-53.929 120.88-120.42a5 5 0 0 0 0.0254-0.48633 5 5 0 0 0-0.0254-0.49805c-0.27219-66.483-54.332-120.41-120.88-120.41z" color="#000000" color-rendering="auto" dominant-baseline="auto" filter="url(#filter933)" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stop-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;font-variation-settings:normal;inline-size:0;isolation:auto;mix-blend-mode:normal;shape-margin:0;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+<path d="m108.88 175.34v-111.03l66.572 59.216z" fill="#fff"/>
+<circle cx="133.37" cy="120.8" r="115.8" fill="url(#linearGradient1492-3)" stroke="url(#linearGradient903-3)" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+<rect x="88.371" y="75.803" width="90" height="90" fill="#fff" fill-rule="evenodd" stop-color="#000000"/>
+</g>
+</svg>

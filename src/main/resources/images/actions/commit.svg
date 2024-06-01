@@ -1,0 +1,9 @@
+<svg version="1.1" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<filter id="filter1065" x="-.14349" y="-.10745" width="1.287" height="1.2149" color-interpolation-filters="sRGB">
+<feGaussianBlur stdDeviation="10.521858"/>
+</filter>
+</defs>
+<path d="m205.25 14.004a21.705 21.705 0 0 0-18.934 10.612c-20.88 35.115-39.109 86.272-56.298 154.32-12.546-13.788-26.986-27.771-43.367-42.039a21.705 21.705 0 0 0-30.623 2.1122 21.705 21.705 0 0 0 2.1122 30.623c20.671 18.004 37.597 35.143 50.774 51.207l5.6204 7.026 4.2318 6.1141a21.707 21.707 0 0 0 0.29203 0.41264l4.1432 5.6958a21.707 21.707 0 0 0 38.734-8.0227c19.786-88.351 41.269-150.91 61.692-185.27a21.705 21.705 0 0 0-7.5629-29.751 21.705 21.705 0 0 0-10.815-3.0467z" color="#000000" filter="url(#filter1065)" opacity=".83" stroke-linecap="round" stroke-linejoin="round" stroke-width=".96468" style="-inkscape-stroke:none"/>
+<path d="m58.065 139.29q32.108 27.965 53.341 53.859l6.2145 7.7681 4.6609 6.7324 4.143 5.6966q30.036-134.13 64.217-191.61" fill="none" stroke="#23d716" stroke-linecap="round" stroke-linejoin="round" stroke-width="43.411"/>
+</svg>

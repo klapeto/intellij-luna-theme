@@ -1,0 +1,17 @@
+<svg version="1.1" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient id="linearGradient926" x1="103.45" x2="99.478" y1="100.01" y2="89.034" gradientTransform="matrix(19.884 0 0 19.884 -1728.7 -1673.7)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#9a9aff" offset="0"/>
+<stop stop-color="#cacaff" offset=".5"/>
+<stop stop-color="#fcfcff" offset="1"/>
+</linearGradient>
+<filter id="filter969" x="-.1875" y="-.075842" width="1.375" height="1.1517" color-interpolation-filters="sRGB">
+<feGaussianBlur stdDeviation="7.3981471"/>
+</filter>
+</defs>
+<g transform="translate(-91.938 -88.637)">
+<path d="m251.37 96.693v25.629l1.875 0.56056c3.1955 0.95848 8.5334 1.6019 14.445 3.043 5.5288 1.3477 11.204 3.4549 15.244 6.4434v162.54c-4.3814 2.7814-10.057 4.949-15.526 6.3848-5.8663 1.5403-11.105 2.397-14.164 3.3145l-1.875 0.56055v25.631h2.6348c23.041 0 33.893-7.1589 44.549-15.223 10.333 8.6135 21.831 15.223 44.883 15.223h2.627v-25.631l-1.875-0.56055c-3.1959-0.95865-8.5901-1.6197-14.535-3.0703-5.5617-1.3571-11.234-3.4683-15.154-6.4083v-162.99c2.298-2.4596 7.9128-4.7607 13.93-6.1485 6.3281-1.4595 12.437-2.1127 15.76-3.1094l1.875-0.56056v-25.629h-2.627c-20.46 0-33.07 5.3185-44.676 15.088-10.232-8.5097-19.37-15.088-44.756-15.088z" color="#000000" color-rendering="auto" dominant-baseline="auto" filter="url(#filter969)" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stop-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;font-variation-settings:normal;inline-size:0;isolation:auto;mix-blend-mode:normal;shape-margin:0;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+<path d="m275.57 122.89c-9.2081-7.6023-26.278-8.9359-31.566-10.522v-21.044c26.305 0 33.738 6.5843 44.718 15.783 11.769-10.454 23.674-15.783 44.718-15.783v21.044c-5.2875 1.5859-25.78 3.0709-31.566 10.522v165.72c8.9537 7.5281 26.278 8.9359 31.566 10.522v21.044c-23.674 0-34.149-6.6955-44.718-15.783-11.167 8.5479-21.044 15.783-44.718 15.783v-21.044c5.2874-1.586 21.729-3.6694 31.566-10.522z" fill="url(#linearGradient926)" stroke="#212121" stroke-width="5.2609px"/>
+<path d="m96.531 211.42 106.42 28.993v41.419l66.271-70.413-66.271-70.413v41.419z" fill="#019901"/>
+</g>
+</svg>

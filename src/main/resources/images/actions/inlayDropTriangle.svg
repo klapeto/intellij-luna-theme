@@ -1,0 +1,28 @@
+<svg version="1.1" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient id="linearGradient917" x1="23.392" x2="14.686" y1="10.295" y2="2.2426" gradientTransform="matrix(19.702 0 0 19.702 -237.96 -2.9255)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#abbfe6" offset="0"/>
+<stop stop-color="#a7bce5" offset="1"/>
+</linearGradient>
+<radialGradient id="radialGradient1100" cx="81.396" cy="56.517" r="122.18" gradientTransform="matrix(.81483 1.2498 -.83768 .54615 62.415 -76.077)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#fff" offset="0"/>
+<stop stop-color="#fff" offset=".5"/>
+<stop stop-color="#e1e6f1" offset="1"/>
+</radialGradient>
+<filter id="filter1196" x="-.048" y="-.048" width="1.096" height="1.096" color-interpolation-filters="sRGB">
+<feGaussianBlur stdDeviation="4.7800004"/>
+</filter>
+</defs>
+<g transform="translate(-12.568)">
+<path d="m137.07 4c-65.909 1.8e-6 -119.5 53.591-119.5 119.5 0 65.909 53.591 119.5 119.5 119.5 65.655 0 119.05-53.188 119.46-118.75a7.5 7.5 0 0 0 0.0391-0.75195 7.5 7.5 0 0 0-0.0371-0.72461c-0.39584-65.573-53.798-118.78-119.46-118.78z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#212121" filter="url(#filter1196)" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stop-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;font-variation-settings:normal;inline-size:0;isolation:auto;mix-blend-mode:normal;shape-margin:0;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+<g transform="translate(-2.6808 -2.6808)" stroke-linecap="round">
+<circle cx="134.75" cy="122.18" r="112" fill="url(#radialGradient1100)" stroke="url(#linearGradient917)" stroke-linejoin="round" stroke-width="15"/>
+<g fill="none" stroke="#003ca5" stroke-width="20.462">
+<path d="m134.75 124.82-39.206-40.462"/>
+<path d="m134.75 124.82 39.206-40.462"/>
+<path d="m134.75 179.06-39.206-40.462"/>
+<path d="m134.75 179.06 39.206-40.462"/>
+</g>
+</g>
+</g>
+</svg>

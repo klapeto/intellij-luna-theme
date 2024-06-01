@@ -1,0 +1,16 @@
+<svg version="1.1" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<radialGradient id="radialGradient920" cx="94.335" cy="90.473" r="1.5875" gradientTransform="matrix(-.36458 116.76 -116.4 -.36343 10702 -10850)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#caf4b5" offset="0"/>
+<stop stop-color="#98ea6f" offset=".36912"/>
+<stop stop-color="#3ac51d" offset="1"/>
+</radialGradient>
+<filter id="filter856" x="-.048" y="-.048" width="1.096" height="1.096" color-interpolation-filters="sRGB">
+<feGaussianBlur stdDeviation="4.009922"/>
+</filter>
+</defs>
+<g transform="translate(-91.938 -88.637)">
+<path d="m193.96 120.39v69.271h-69.271v61.953h69.271v69.271h61.953v-69.271h69.271v-61.953h-69.271v-69.271z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#212121" filter="url(#filter856)" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stop-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;font-variation-settings:normal;inline-size:0;isolation:auto;mix-blend-mode:normal;shape-margin:0;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+<path d="m193.96 121.39v69.272h-69.272v51.954h69.272v69.272h51.954v-69.272h69.272v-51.954h-69.272v-69.272z" fill="url(#radialGradient920)" stroke="#067003" stroke-linecap="round" stroke-width="10"/>
+</g>
+</svg>

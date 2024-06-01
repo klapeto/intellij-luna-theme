@@ -1,0 +1,20 @@
+<svg version="1.1" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient id="linearGradient11407" x1="14.243" x2="13.027" y1="6.7372" y2="6.7463" gradientTransform="matrix(88.962 0 0 -88.962 -1034.6 673.9)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#00e51f" offset="0"/>
+<stop stop-color="#38ff52" offset="1"/>
+</linearGradient>
+<linearGradient id="linearGradient11461" x1="14.243" x2="13.027" y1="6.7372" y2="6.7463" gradientTransform="matrix(-88.962 0 0 -88.962 1281 766.45)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#e50d00" offset="0"/>
+<stop stop-color="#ff5038" offset="1"/>
+</linearGradient>
+<filter id="filter11982" x="-.12664" y="-.11934" width="1.2533" height="1.2387" color-interpolation-filters="sRGB">
+<feGaussianBlur stdDeviation="12.085386"/>
+</filter>
+</defs>
+<g stroke-linecap="round" stroke-linejoin="round" stroke-width="10">
+<path d="m186.48 14.006a5.0005 5.0005 0 0 0-3.541 1.7188l-59.715 68.885a5.0005 5.0005 0 0 0-0.0625 6.4785l59.715 71.613a5.0005 5.0005 0 0 0 8.8398-3.2012v-40.5h55a5.0005 5.0005 0 0 0 5-5v-50a5.0005 5.0005 0 0 0-5-5h-55v-40a5.0005 5.0005 0 0 0-3.252-4.6836 5.0005 5.0005 0 0 0-1.9844-0.31055zm-98.568 92.547a5.0005 5.0005 0 0 0-1.9844 0.31055 5.0005 5.0005 0 0 0-3.252 4.6836v40h-55a5.0005 5.0005 0 0 0-5 5v50a5.0005 5.0005 0 0 0 5 5h55v40.5a5.0005 5.0005 0 0 0 8.8398 3.2012l59.715-71.613a5.0005 5.0005 0 0 0-0.0625-6.4766l-59.715-68.887a5.0005 5.0005 0 0 0-3.541-1.7188z" color="#000000" filter="url(#filter11982)" opacity=".83" style="-inkscape-stroke:none"/>
+<path d="m172.72 145.5-59.714-71.614 59.714-68.886v45h60v50h-60z" fill="url(#linearGradient11407)" stroke="#018913"/>
+<path d="m73.679 238.05 59.714-71.614-59.714-68.886v45h-60v50h60z" fill="url(#linearGradient11461)" stroke="#891401"/>
+</g>
+</svg>

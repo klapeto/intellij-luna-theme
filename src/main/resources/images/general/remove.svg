@@ -1,0 +1,18 @@
+<svg version="1.1" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<radialGradient id="radialGradient920" cx="94.335" cy="90.473" r="1.5875" gradientTransform="matrix(-.097695 31.288 -31.191 -.097388 2934.7 -2842.9)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#e54d4d" offset="0"/>
+<stop stop-color="#e55c4d" offset=".36912"/>
+<stop stop-color="#b9231d" offset="1"/>
+</radialGradient>
+<filter id="filter857" x="-.031406" y="-.10178" width="1.0628" height="1.2036" color-interpolation-filters="sRGB">
+<feGaussianBlur stdDeviation="2.6171525"/>
+</filter>
+</defs>
+<g transform="translate(-91.938 -88.637)">
+<path d="m124.94 189.78v61.715h200v-61.715z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#212121" filter="url(#filter857)" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stop-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;font-variation-settings:normal;inline-size:0;isolation:auto;mix-blend-mode:normal;shape-margin:0;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+<g transform="matrix(3.7249 0 0 3.7249 -248.66 -239.67)">
+<path d="m100.28 115.54v13.922h51.047v-13.922z" fill="url(#radialGradient920)" stroke="#701203" stroke-linecap="round" stroke-width="2.6458"/>
+</g>
+</g>
+</svg>

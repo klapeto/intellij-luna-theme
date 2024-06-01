@@ -1,0 +1,26 @@
+<svg version="1.1" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<filter id="filter933" x="-.048" y="-.048" width="1.096" height="1.096" color-interpolation-filters="sRGB">
+<feGaussianBlur stdDeviation="4.8361916"/>
+</filter>
+<linearGradient id="linearGradient1492-3" x1="-.98494" x2="-4.1304" y1="7.7993" y2="3.9215" gradientTransform="matrix(40.715 0 0 40.715 238.4 -118.88)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#06c" offset="0"/>
+<stop stop-color="#0076dc" offset=".7"/>
+<stop stop-color="#5eb8ff" offset="1"/>
+</linearGradient>
+<linearGradient id="linearGradient903-3" x1="28.65" x2="18.284" y1="12.93" y2="1.4135" gradientTransform="matrix(14.791 0 0 14.791 -195.56 -2.3955)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#039" offset="0"/>
+<stop stop-color="#096dd0" offset="1"/>
+</linearGradient>
+</defs>
+<g transform="translate(-12.568)">
+<path d="m138.57 4.096c-66.715 0-120.91 54.19-120.91 120.9 0 66.715 54.192 120.9 120.91 120.9 66.55 0 120.61-53.929 120.88-120.42a5 5 0 0 0 0.0254-0.48633 5 5 0 0 0-0.0254-0.49805c-0.27219-66.483-54.332-120.41-120.88-120.41z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#212121" filter="url(#filter933)" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stop-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;font-variation-settings:normal;inline-size:0;isolation:auto;mix-blend-mode:normal;shape-margin:0;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+<circle cx="133.37" cy="120.8" r="115.8" fill="url(#linearGradient1492-3)" stroke="url(#linearGradient903-3)" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+<g transform="translate(6.8605 .97724)">
+<g transform="matrix(15.1 0 0 15.1 -199.85 -7.5456)">
+<path d="m19.409 12v-7" fill="none" stroke="#fff" stroke-width="2"/>
+</g>
+<path d="m174.9 175.34v-111.03l-66.572 59.216z" fill="#fff"/>
+</g>
+</g>
+</svg>

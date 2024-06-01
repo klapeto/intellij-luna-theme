@@ -1,0 +1,16 @@
+<svg version="1.1" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient id="linearGradient1306" x1="-5.4323" x2="-5.4323" y1="11.5" y2="45.5" gradientTransform="matrix(5.6121 0 0 5.6121 225.34 -13.56)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#a1d2ff" offset="0"/>
+<stop stop-color="#fff" offset="1"/>
+</linearGradient>
+<filter id="filter854" x="-.1417" y="-.10847" width="1.2834" height="1.2169" color-interpolation-filters="sRGB">
+<feGaussianBlur stdDeviation="9.1946078"/>
+</filter>
+</defs>
+<g transform="translate(-12.568)">
+<rect x="17.568" y="5" width="150" height="150" fill="none" stop-color="#000000" stroke="#524d42" stroke-dasharray="30,30" stroke-linecap="round" stroke-width="10"/>
+<path d="m116.01 54.068a2.1021 2.1021 0 0 0-1.9919 2.5108c2.5526 12.862 13.058 51.522 23.686 89.925 10.628 38.403 21.361 76.43 24.218 87.242a2.1021 2.1021 0 0 0 4.0544 0.0394c4.3568-15.28 10.505-27.297 22.727-37.115l46.376 60.015a2.1021 2.1021 0 0 0 3.0691 0.27751l28.06-25.256a2.1021 2.1021 0 0 0 0.22989-2.8819l-43.281-53.583c13.491-7.125 32.142-10.723 44.386-10.342a2.1021 2.1021 0 0 0 1.2776-3.8162c-15.526-10.968-48.487-34.953-80.021-57.528-31.534-22.575-61.385-43.616-71.715-49.233a2.1021 2.1021 0 0 0-1.0739-0.25452z" color="#000000" color-rendering="auto" dominant-baseline="auto" filter="url(#filter854)" image-rendering="auto" opacity=".73" shape-rendering="auto" solid-color="#000000" stop-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;font-variation-settings:normal;inline-size:0;isolation:auto;mix-blend-mode:normal;shape-margin:0;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+<path d="m102.26 42.023c19.737 10.733 120.41 84.647 151.53 106.63-13.384-0.41688-33.613 3.5583-47.703 11.762l44.897 55.584-28.061 25.255-47.703-61.733c-13.758 10.36-20.467 23.351-25.084 39.542-5.7547-21.783-42.887-151.91-47.874-177.04z" fill="url(#linearGradient1306)" stroke="#7075ad" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="5" stroke-width="4.2038"/>
+</g>
+</svg>

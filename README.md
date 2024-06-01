@@ -1,4 +1,4 @@
-# intellij-luna-theme
+# Windows Xp Luna Theme for Intellij IDEs
 
 ![Build](https://github.com/klapeto/intellij-luna-theme/workflows/Build/badge.svg)
 [![Version](https://img.shields.io/jetbrains/plugin/v/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/PLUGIN_ID)

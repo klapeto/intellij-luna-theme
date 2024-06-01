@@ -1,0 +1,18 @@
+<svg version="1.1" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+<path d="m42.359 14c-7.776 0-14.853 2.9136-19.98 8.3789-5.4653 5.1274-8.3789 12.204-8.3789 19.98v183.81c0 7.4914 2.9636 14.374 8.373 19.449 5.1278 5.4693 12.207 8.3848 19.986 8.3848h183.81c7.469 0 14.339-2.7102 19.469-7.8398 5.4084-5.4084 8.3652-12.428 8.3652-19.994v-183.81c0-7.7577-2.6586-14.813-7.8398-19.994-5.4084-5.4084-12.428-8.3652-19.994-8.3652z" filter="url(#filter992)" opacity=".83" stroke-width="10.503"/>
+<g transform="matrix(10.503 0 0 10.503 128.14 128.67)">
+<path d="m9.55-11.1q0.6 0.6 0.6 1.55v17.5q0 0.9-0.65 1.55-0.6 0.6-1.5 0.6h-17.5q-0.95 0-1.55-0.65-0.65-0.6-0.65-1.5v-17.5q0-0.95 0.65-1.55 0.6-0.65 1.55-0.65h17.5q0.9 0 1.55 0.65" fill="url(#gradient0)" fill-rule="evenodd"/>
+<path d="m9.55-11.1q0.6 0.6 0.6 1.55v17.5q0 0.9-0.65 1.55-0.6 0.6-1.5 0.6h-17.5q-0.95 0-1.55-0.65-0.65-0.6-0.65-1.5v-17.5q0-0.95 0.65-1.55 0.6-0.65 1.55-0.65h17.5q0.9 0 1.55 0.65z" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="m-6.1-6.25 5.35 5.45 5.25-5.5m-0.05 10.85-5.2-5.35-5.15 5.35" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+</g>
+<defs>
+<radialGradient id="gradient0" cx="0" cy="0" r="819.2" gradientTransform="matrix(.0209 0 0 .0209 -6.1 -6.25)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#ff837d" offset="0"/>
+<stop stop-color="#e13300" offset=".58431"/>
+<stop stop-color="#ab2200" offset="1"/>
+</radialGradient>
+<filter id="filter992" x="-.12288" y="-.12288" width="1.2458" height="1.2458" color-interpolation-filters="sRGB">
+<feGaussianBlur stdDeviation="12.288"/>
+</filter>
+</defs>
+</svg>

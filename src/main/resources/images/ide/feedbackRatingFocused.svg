@@ -1,0 +1,14 @@
+<svg version="1.1" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<filter x="-.047194" y="-.048834" width="1.0944" height="1.0977" color-interpolation-filters="sRGB">
+<feGaussianBlur stdDeviation="0.88878787"/>
+</filter>
+<filter id="filter975" x="-.046965" y="-.049082" width="1.0939" height="1.0982" color-interpolation-filters="sRGB">
+<feGaussianBlur stdDeviation="4.6709593"/>
+</filter>
+</defs>
+<g transform="translate(-12.568)">
+<path d="m141.92 4.0258c-7.901 0.074667-16.06 5.284-18.139 14.639l-14.748 66.363-63.719-7.3516c-11.254-1.2986-19.688 4.4887-21.678 12.52-1.9893 8.0308 2.0921 17.363 11.465 23.068l56.443 34.357-26.914 56.275c-4.6597 9.7429-3.3271 19.585 3.1309 24.533 6.458 4.9478 16.59 3.7106 26.135-4.4024l49.102-41.734 49.164 44.246c8.2157 7.3941 18.049 7.3504 24.197 2.4824 6.1487-4.868 8.7619-13.884 5.2305-22.359l-24.588-59.01 54.102-34.43c9.4984-6.0445 12.456-15.697 9.8145-23.352-2.6413-7.6542-10.586-13.214-20.061-12.199l-68.787 7.3711-12.268-66.244c-1.7765-9.5929-9.9818-14.848-17.883-14.773zm0.0723 7.752c4.7385-0.04478 9.0545 2.3153 10.188 8.4336l12.922 69.773a3.8767 3.8767 0 0 0 4.2246 3.1484l72.357-7.752c6.1522-0.65916 10.413 2.6924 11.906 7.0195 1.4932 4.3271 0.51298 9.7259-6.6484 14.283l-56.852 36.178a3.8767 3.8767 0 0 0-1.498 4.7617l25.842 62.021c2.2709 5.4501 0.44783 10.659-2.8867 13.299-3.3345 2.64-8.0295 3.3867-14.199-2.166l-51.684-46.516a3.8767 3.8767 0 0 0-5.1035-0.0723l-51.686 43.932c-7.9045 6.7188-13.527 6.3542-16.398 4.1543-2.8714-2.1999-4.4425-7.5249-0.85156-15.033l28.426-59.438a3.8767 3.8767 0 0 0-1.4805-4.9844l-59.438-36.178c-7.0845-4.3123-9.0232-10.335-7.9707-14.584 1.0525-4.249 4.7228-7.6671 13.264-6.6816l67.189 7.7539a3.8767 3.8767 0 0 0 4.2285-3.0117l15.506-69.773c1.3064-5.8788 5.9041-8.5236 10.643-8.5684z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#212121" filter="url(#filter975)" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stop-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;font-variation-settings:normal;inline-size:0;isolation:auto;mix-blend-mode:normal;shape-margin:0;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+<path d="m107.06 85.279 15.505-69.774c3.3852-15.233 25.517-15.711 28.426 0l12.921 69.774 72.358-7.7527c15.627-1.6743 24.412 17.825 7.7527 28.426l-56.853 36.179 25.842 62.021c5.8023 13.926-8.8726 28.452-23.258 15.505l-51.684-46.516-51.684 43.932c-17.449 14.832-31.509 1.7459-23.258-15.505l28.426-59.437-59.437-36.179c-16.457-10.017-12.043-30.71 7.7527-28.426z" fill="none" stroke="#960" stroke-linejoin="round" stroke-width="7.7526"/>
+</g>
+</svg>

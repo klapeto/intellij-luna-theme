@@ -1,0 +1,21 @@
+<svg version="1.1" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient id="linearGradient1492" x1="-.79375" x2="-4.2333" y1="7.9375" y2="3.8365" gradientTransform="matrix(42.976 0 0 42.976 251.43 -125)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#10af04" offset="0"/>
+<stop stop-color="#74c53b" offset=".78261"/>
+<stop stop-color="#bbe5ae" offset="1"/>
+</linearGradient>
+<linearGradient id="linearGradient1494" x1="-.52917" x2="-4.2333" y1="7.9375" y2="3.8365" gradientTransform="matrix(42.976 0 0 42.976 251.43 -125)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#034501" offset="0"/>
+<stop stop-color="#0eba0e" offset="1"/>
+</linearGradient>
+</defs>
+<g transform="translate(-12.568)" stroke-linecap="round">
+<circle cx="140.57" cy="128" r="122.24" fill="url(#linearGradient1492)" stroke="url(#linearGradient1494)" stroke-linejoin="round" stroke-width="10"/>
+<g transform="matrix(0 -42.976 -42.976 0 390.72 358.26)" fill="none" stroke="#fff" stroke-width=".79375">
+<path d="m6.8792 5.8208-1.5875 1.4552"/>
+<path d="m6.6146 5.8208h-2.7781"/>
+<path d="m6.8792 5.8208-1.5875-1.4552"/>
+</g>
+</g>
+</svg>

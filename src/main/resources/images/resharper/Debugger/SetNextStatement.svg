@@ -1,0 +1,13 @@
+<svg version="1.1" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="linearGradient1618" x1="-2.7981" x2="-1.6334" y1="7.7863" y2="8.9144" gradientTransform="matrix(0 -59.19 47.995 0 -263.21 24.455)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#2fb119" offset="0"/>
+<stop stop-color="#8df35b" offset="1"/>
+</linearGradient>
+<filter id="filter1090" x="-.13431" y="-.11325" width="1.2686" height="1.2265" color-interpolation-filters="sRGB">
+<feGaussianBlur stdDeviation="10.727468"/>
+</filter>
+</defs>
+<path d="m50.577 23.606a4.0447 4.0447 0 0 0-4.541 2.2422c-14.089 30.292-17.467 74.098-4.2188 111.06 12.9 35.993 42.58 65.298 92.73 66.818v43.082a4.0447 4.0447 0 0 0 6.9648 2.7988l82.539-86.135a4.0447 4.0447 0 0 0-0.13672-5.7324l-82.539-78.305a4.0447 4.0447 0 0 0-6.8281 2.9355v50.607c-21.371-0.80472-43.486-7.9574-59.285-23.439-16.796-16.459-26.944-42.288-21.553-81.43a4.0447 4.0447 0 0 0 0.03906-0.55274v-0.0059a4.0447 4.0447 0 0 0-3.1719-3.9473z" color="#000000" filter="url(#filter1090)" opacity=".83" stroke-linejoin="round" stroke-miterlimit="5.8" stroke-width="8.0887" style="-inkscape-stroke:none"/>
+<path d="m35.703 13.559c-11.04 80.152 42.017 109.63 88.889 109.63v-54.813l82.539 78.304-82.539 86.135v-46.983c-102.29 0-116-113.99-88.889-172.28z" fill="url(#linearGradient1618)" stroke="#1d701d" stroke-linejoin="round" stroke-miterlimit="5.8" stroke-width="8.0887"/>
+</svg>

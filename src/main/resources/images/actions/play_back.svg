@@ -1,0 +1,23 @@
+<svg version="1.1" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient id="linearGradient1492" x1="-.98494" x2="-4.1304" y1="7.7993" y2="3.9215" gradientTransform="matrix(2.7527 0 0 2.7527 28.339 -7.8755)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#10af04" offset="0"/>
+<stop stop-color="#6bc22e" offset=".7"/>
+<stop stop-color="#afe09b" offset="1"/>
+</linearGradient>
+<linearGradient id="linearGradient903" x1="28.65" x2="18.284" y1="12.93" y2="1.4135" gradientTransform="translate(-1)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#034501" offset="0"/>
+<stop stop-color="#0eba0e" offset="1"/>
+</linearGradient>
+<filter id="filter933" x="-.048" y="-.048" width="1.096" height="1.096" color-interpolation-filters="sRGB">
+<feGaussianBlur stdDeviation="4.8361916"/>
+</filter>
+</defs>
+<g transform="translate(-12.568)">
+<path d="m138.57 4.096c-66.715 0-120.91 54.19-120.91 120.9 0 66.715 54.192 120.9 120.91 120.9 66.55 0 120.61-53.929 120.88-120.42a5 5 0 0 0 0.0254-0.48633 5 5 0 0 0-0.0254-0.49805c-0.27219-66.483-54.332-120.41-120.88-120.41z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#212121" filter="url(#filter933)" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stop-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;font-variation-settings:normal;inline-size:0;isolation:auto;mix-blend-mode:normal;shape-margin:0;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+<g transform="matrix(14.804 0 0 14.804 -180.84 -2.3067)" stroke-width=".6755">
+<circle cx="21.238" cy="8.3293" r="7.8293" fill="url(#linearGradient1492)" stroke="url(#linearGradient903)" stroke-linecap="round" stroke-linejoin="round" stroke-width=".6755"/>
+<path d="m22.937 12v-7.5l-4.4969 4z" fill="#fff"/>
+</g>
+</g>
+</svg>

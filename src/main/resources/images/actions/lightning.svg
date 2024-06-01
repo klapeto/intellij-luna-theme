@@ -1,0 +1,26 @@
+<svg version="1.1" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient id="linearGradient988" x1="90.467" x2="91.578" y1="89.249" y2="89.818" gradientTransform="matrix(12.442 0 0 12.442 -1068.8 -1009.6)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#fff2d8" offset="0"/>
+<stop stop-color="#ffed7d" offset=".54039"/>
+<stop stop-color="#ff6c64" offset="1"/>
+</linearGradient>
+<linearGradient id="linearGradient909-3" x1="91.199" x2="91.34" y1="90.82" y2="90.924" gradientTransform="matrix(12.442 0 0 12.442 -1068.8 -1009.6)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#ffed7d" offset="0"/>
+<stop stop-color="#ff6c64" offset="1"/>
+</linearGradient>
+<linearGradient id="linearGradient901-2" x1="90.615" x2="92.124" y1="89.431" y2="90.205" gradientTransform="matrix(12.442 0 0 12.442 -1068.8 -1009.6)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#e5b300" offset="0"/>
+<stop stop-color="#a86c00" offset="1"/>
+</linearGradient>
+<filter id="filter868" x="-.13078" y="-.11588" width="1.2616" height="1.2318" color-interpolation-filters="sRGB">
+<feGaussianBlur stdDeviation="11.50943"/>
+</filter>
+</defs>
+<path d="m97.268 18.992a2.4992 2.4992 0 0 0-2.3018 1.5345l-57.702 138.21a2.4992 2.4992 0 0 0 2.6258 3.4478l88.295-11.497-54.344 103.01a2.4992 2.4992 0 0 0 3.9846 2.9304l147.27-147.8a2.4992 2.4992 0 0 0-2.0675-4.2424l-75.55 8.9415 5.4235-5.0779 94.558-85.105a2.4992 2.4992 0 0 0-1.6751-4.3536z" filter="url(#filter868)" opacity=".83"/>
+<g transform="matrix(6.4448 0 0 6.4448 -315.58 -604.12)" stroke-width="1.5516">
+<path d="m61.887 94.901h23.043l-15.911 14.896-2.1626 4.7601-13.923 1.7891z" fill="url(#linearGradient988)"/>
+<path d="m61.019 111.04 20.087-2.5774-22.511 22.65 8.5561-16.596-8.3214 0.81958z" fill="url(#linearGradient909-3)"/>
+<path d="m61.887 94.901h23.043l-16.46 14.814 12.975-1.5351-22.851 22.933 8.7805-16.645-14.442 1.8797z" fill="none" stroke="url(#linearGradient901-2)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5516"/>
+</g>
+</svg>

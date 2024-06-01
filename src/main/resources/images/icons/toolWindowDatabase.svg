@@ -1,0 +1,30 @@
+<svg version="1.1" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient id="linearGradient1014-3" x1="-15.932" x2="14.068" y1="25.481" y2="25.481" gradientUnits="userSpaceOnUse">
+<stop stop-color="#edb00d" offset="0"/>
+<stop stop-color="#f6eda4" offset=".37533"/>
+<stop stop-color="#e8a701" offset=".68767"/>
+<stop stop-color="#e2a000" offset="1"/>
+</linearGradient>
+<linearGradient id="linearGradient991-1" x1="-13.386" x2="10.258" y1="6.2108" y2="12.485" gradientUnits="userSpaceOnUse">
+<stop stop-color="#ffffd7" offset="0"/>
+<stop stop-color="#fbf4be" offset=".60214"/>
+<stop stop-color="#fbf6c5" offset="1"/>
+</linearGradient>
+<linearGradient id="linearGradient1004-9" x1="8.0296" x2="-12.93" y1="45.818" y2="6.0156" gradientUnits="userSpaceOnUse">
+<stop stop-color="#83602a" offset="0"/>
+<stop stop-color="#deca8e" offset="1"/>
+</linearGradient>
+<filter id="filter968" x="-.056658" y="-.041638" width="1.1133" height="1.0833" color-interpolation-filters="sRGB">
+<feGaussianBlur stdDeviation="4.1984484"/>
+</filter>
+</defs>
+<g transform="translate(-12.568)" fill-rule="evenodd">
+<path d="m146.3 4c-24.024 0-45.763 3.0492-61.733 8.043-7.9851 2.4969-14.534 5.4668-19.28 8.9549-4.7462 3.488-7.9032 7.733-7.9032 12.62v182.87c0 4.8689 3.1577 9.0919 7.9032 12.563 4.7455 3.4709 11.296 6.4238 19.28 8.9135 15.969 4.9794 37.709 8.0312 61.733 8.0312s45.769-3.0487 61.745-8.0864c7.9876-2.5188 14.544-5.525 19.292-9.0652 3.755-2.7996 6.0015-6.2026 6.9874-9.9002a2.7824 2.7824 0 0 0 0.8488-2.0009v-0.7267c9.9e-4 -0.0618 0.0552-0.1133 0.0552-0.17528a2.7824 2.7824 0 0 0-0.0552-0.52189l0.0434-181.85c3e-3 -4.8954-3.1558-9.1554-7.9012-12.651-4.7454-3.496-11.286-6.4665-19.271-8.9667-15.97-5.0004-37.721-8.0529-61.745-8.0529z" filter="url(#filter968)"/>
+<g transform="matrix(5.5647 0 0 5.5647 146.6 -20.792)">
+<path d="m14.527 41.842c0 2.6959-6.9304 4.8814-15.48 4.8814-8.5491 0-15.48-2.1855-15.48-4.8026v-32.862c0-2.6366 6.9304-4.822 15.48-4.822 8.5491 0 15.48 2.1855 15.478 4.8309l-0.0068 32.935" fill="url(#linearGradient1014-3)"/>
+<path d="m14.527 9.1186a15.48 4.8814 0 0 1-15.48 4.8814 15.48 4.8814 0 0 1-15.48-4.8814 15.48 4.8814 0 0 1 15.48-4.8814 15.48 4.8814 0 0 1 15.48 4.8814" fill="url(#linearGradient991-1)"/>
+<path d="m-0.95312 3.7363c-4.3172 0-8.2238 0.5479-11.094 1.4453-1.435 0.4487-2.6119 0.98256-3.4648 1.6094-0.85292 0.62681-1.4199 1.3894-1.4199 2.2676v32.863c0 0.87496 0.56714 1.6341 1.4199 2.2578 0.85279 0.62374 2.03 1.1541 3.4648 1.6016 2.8696 0.89482 6.7766 1.4434 11.094 1.4434 4.3172 0 8.2249-0.54783 11.096-1.4531 1.4354-0.45264 2.6135-0.99274 3.4668-1.6289 0.67479-0.50309 1.0787-1.1148 1.2559-1.7793a0.5 0.5 0 0 0 0.15234-0.35938v-0.13086c1.77e-4 -0.0111 0.0098-0.02011 0.0098-0.03125a0.5 0.5 0 0 0-0.0098-0.09375l0.0078-32.68c5.62e-4 -0.87972-0.56714-1.6452-1.4199-2.2734-0.85277-0.62825-2.028-1.162-3.4629-1.6113-2.8699-0.8986-6.7785-1.4473-11.096-1.4473zm0 1c4.232 0 8.0646 0.54684 10.797 1.4023 1.3661 0.42775 2.4565 0.93537 3.1699 1.4609 0.71338 0.52556 1.012 1.0257 1.0117 1.4688l-0.0078 32.787c-0.0056 0.45636-0.29914 0.95943-1.0059 1.4863-0.71333 0.53182-1.8041 1.0439-3.1699 1.4746-2.7317 0.86142-6.563 1.4082-10.795 1.4082s-8.064-0.54625-10.797-1.3984c-1.3664-0.42609-2.4561-0.93102-3.1699-1.4531s-1.0117-1.0176-1.0117-1.4512v-32.863c0-0.4401 0.29802-0.93839 1.0117-1.4629 0.71369-0.5245 1.8036-1.0318 3.1699-1.459 2.7326-0.85447 6.5649-1.4004 10.797-1.4004z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="url(#linearGradient1004-9)" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stop-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;font-variation-settings:normal;inline-size:0;isolation:auto;mix-blend-mode:normal;shape-margin:0;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+</g>
+</g>
+</svg>

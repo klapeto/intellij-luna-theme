@@ -1,0 +1,55 @@
+<svg version="1.1" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<radialGradient id="radialGradient1007" cx="41.694" cy="24.958" r="14.862" gradientTransform="matrix(.86771 -.74222 .83567 .97695 -7.3399 31.446)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#fff" offset="0"/>
+<stop stop-color="#d9ffff" offset=".61435"/>
+<stop stop-color="#a3d6ff" offset="1"/>
+</radialGradient>
+<linearGradient id="linearGradient1038" x1="-33.432" x2="-27.932" y1="16.5" y2="22.5" gradientTransform="translate(-13,8)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#ccc" offset="0"/>
+<stop stop-color="#6c6c6c" offset=".5"/>
+<stop stop-color="#aeaeae" offset="1"/>
+</linearGradient>
+<linearGradient id="linearGradient1058" x1="-4.4323" x2="1.5677" y1="32.5" y2="38.5" gradientTransform="translate(-51)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#fdb562" offset="0"/>
+<stop stop-color="#ffc761" offset=".25"/>
+<stop stop-color="#b56a49" offset=".625"/>
+<stop stop-color="#9b94c0" offset="1"/>
+</linearGradient>
+<linearGradient id="linearGradient1072" x1="-34.932" x2="-30.432" y1="40.5" y2="45.5" gradientTransform="translate(-27)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#ccc" offset="0"/>
+<stop stop-color="#6c6c6c" offset=".5"/>
+<stop stop-color="#aeaeae" offset="1"/>
+</linearGradient>
+<linearGradient id="linearGradient1124" x1="44.315" x2="27.815" y1="27" y2="4.5" gradientTransform="translate(6.348)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#6a6a9d" offset="0"/>
+<stop stop-color="#8585b4" offset="1"/>
+</linearGradient>
+<filter id="filter1092" x="-.12241" y="-.12335" width="1.2448" height="1.2467" color-interpolation-filters="sRGB">
+<feGaussianBlur stdDeviation="12.291942"/>
+</filter>
+</defs>
+<g transform="translate(-12.568)">
+<path d="m188.73 14c-43.506 0-78.832 35.326-78.832 78.832 0 10.819 2.1872 21.13 6.1387 30.52-0.47027 7.2013-0.60515 20.399 0.1582 26.52-4.163-0.37463-9.0276-0.56947-12.975 0.88282l-3.3223-3.5996-73.334 73.334 1.9492 1.9492c-1.487 5.111-3.1998 18.48 3.4824 25.213 7.442 7.4989 19.043 5.9027 25.262 3.5312l1.9004 1.9004 73.334-70.619-1.6016-1.7344c1.5939-3.5738 1.6016-10.013 1.6016-14.561 9.2548 1.8524 20.278 1.3609 29.518 0.83594 8.3469 3.0118 17.341 4.6621 26.721 4.6621 43.506 0 78.834-35.328 78.834-78.834s-35.328-78.832-78.834-78.832z" filter="url(#filter1092)" opacity=".83"/>
+<g transform="matrix(5.4322 0 0 5.4322 -58.305 -5.366)">
+<g transform="translate(74.979)">
+<path d="m-45.418 20.586c-0.11939 1.0676-0.17708 4.1121-0.01478 5.4135-1.0009-0.09007-2.2233-0.12586-3 0.5l5.5 5.5c0.5-0.5 0.5-2 0.5-3 1.9293 0.38616 4.3026 0.21991 6.1103 0.11684z" fill="url(#linearGradient1038)"/>
+<path d="m-61.432 39c-0.23842 0.30889-0.96444 3.5244 0.5 5 1.5241 1.5358 4 1 5 0.5z" fill="url(#linearGradient1072)"/>
+<path d="m-60.932 40 4 4" fill="none" stroke="#646365" stroke-linecap="round" stroke-width="1px"/>
+<path d="m-48.432 25.5 6 6.5-13.5 13-6-6z" fill="url(#linearGradient1058)"/>
+</g>
+<g transform="translate(.70898)">
+<g transform="matrix(.97562 0 0 .97562 .67522 .024384)">
+<circle cx="42.553" cy="15.862" r="14.362" fill="url(#radialGradient1007)" fill-rule="evenodd" stroke="url(#linearGradient1124)" stroke-linecap="square" stroke-linejoin="round" stroke-width="1.025"/>
+<path d="m42.477 3.8607a12 12 0 0 0-11.891 12 12 12 0 0 0 8.2653 11.403 11.51 11.51 0 0 1-7.3699-10.739 11.51 11.51 0 0 1 11.51-11.51 11.51 11.51 0 0 1 11.51 11.51 11.51 11.51 0 0 1-0.06696 1.236 12 12 0 0 0 0.15115-1.8999 12 12 0 0 0-12-12 12 12 0 0 0-0.10906 0z" fill="#cafdff" fill-rule="evenodd"/>
+<g transform="translate(47.723)">
+<circle cx="-10.495" cy="9.5625" r="4.4375" fill="none" stroke="#d8f7ff" stroke-linecap="square" stroke-linejoin="round" stroke-width=".5"/>
+<circle cx="-12.182" cy="7.75" r="2.75" fill="#fff" fill-rule="evenodd"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<path d="m179.69 70.583-110.3 34.321-0.37905 43.435-67.878-71.402 69.167-76.28-0.37904 43.435z" fill="#019901" stroke-width="1.0411"/>
+<path d="m11.703 70.586 110.3 34.321 0.37904 43.435 67.878-71.402-69.167-76.28 0.37904 43.435z" fill="#019901" stroke-width="1.0411"/>
+</svg>
