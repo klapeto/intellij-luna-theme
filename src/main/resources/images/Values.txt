@@ -1,4 +1,4 @@
-Blur: 32
-Oppacity: 83
-Y: +1
-X: +1
+Blur: 35
+Oppacity: 75
+Y: +0.5
+X: +0.5
