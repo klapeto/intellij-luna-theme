@@ -1,7 +1,7 @@
 <scheme name="Luna" version="142" parent_scheme="Default">
     <metaInfo>
         <property name="ide">idea</property>
-        <property name="ideVersion">2024.1.2.0.0</property>
+        <property name="ideVersion">2025.1.2.0.0</property>
     </metaInfo>
     <colors>
         <option name="ADDED_LINES_COLOR" value="7fc784" />
