@@ -193,7 +193,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="37.44951"
-     inkscape:cx="-8.2644606"
+     inkscape:cx="-8.5982433"
      inkscape:cy="6.3151694"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -297,16 +297,14 @@
          id="path1359"
          sodipodi:nodetypes="cc" />
     </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.0453px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;fill:#0066cc;fill-opacity:1;stroke-width:0.591711"
-       x="17.93651"
-       y="12.290853"
-       id="text748"><tspan
-         sodipodi:role="line"
-         id="tspan746"
-         x="17.93651"
-         y="12.290853"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Microsoft Sans Serif';-inkscape-font-specification:'Microsoft Sans Serif Bold';fill:#0066cc;fill-opacity:1;stroke-width:0.591711">J</tspan></text>
+    <g
+       aria-label="J"
+       id="text748"
+       style="font-size:11.0453px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;fill:#0066cc;stroke-width:0.591711">
+      <path
+         d="m 22.574673,9.7614358 q 0,1.4507742 -0.560894,2.0602072 -0.560894,0.60404 -1.655716,0.60404 -0.981565,0 -1.553246,-0.598647 -0.57168,-0.598646 -0.57168,-1.580211 V 10.03649 h 1.051676 q 0,1.445381 1.07325,1.445381 0.566287,0 0.868307,-0.3182 0.30202,-0.318199 0.30202,-1.3483031 V 4.3844028 h 1.046283 z"
+         style="font-weight:bold;font-family:'Microsoft Sans Serif';-inkscape-font-specification:'Microsoft Sans Serif Bold'"
+         id="path332" />
+    </g>
   </g>
 </svg>

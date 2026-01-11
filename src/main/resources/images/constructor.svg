@@ -8,8 +8,8 @@
    viewBox="0 0 16 16"
    version="1.1"
    id="svg8"
-   inkscape:version="1.3.2 (1:1.3.2+202311252150+091e20ef0f)"
-   sodipodi:docname="code-function.16.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="constructor.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -90,7 +90,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="32"
-     inkscape:cx="-7.546875"
+     inkscape:cx="-7.5625"
      inkscape:cy="-2.296875"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -98,8 +98,8 @@
      showgrid="true"
      units="px"
      inkscape:window-width="3840"
-     inkscape:window-height="2058"
-     inkscape:window-x="0"
+     inkscape:window-height="2061"
+     inkscape:window-x="1280"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
@@ -183,5 +183,64 @@
        id="path1783-7-9"
        d="m 13.567709,9.5 h 4"
        style="fill:none;stroke:url(#linearGradient1846);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       transform="matrix(1.4398,0,0,1.4398,18.020045,3.690577)"
+       id="g6">
+      <g
+         fill="#ff3300"
+         id="g4">
+        <rect
+           transform="rotate(90)"
+           x="2.6458001"
+           y="0.26458001"
+           width="5.5563002"
+           height="0.79374999"
+           rx="0.39686999"
+           ry="0.39686999"
+           id="rect1" />
+        <rect
+           transform="rotate(45)"
+           x="0.72175997"
+           y="3.9061999"
+           width="5.2916999"
+           height="0.79374999"
+           rx="0.39686999"
+           ry="0.39686999"
+           id="rect2" />
+        <rect
+           x="-3.4396"
+           y="5.0271001"
+           width="5.5563002"
+           height="0.79374999"
+           rx="0.39686999"
+           ry="0.39686999"
+           id="rect3" />
+        <rect
+           transform="matrix(-0.70711,0.70711,0.70711,0.70711,0,0)"
+           x="1.6572"
+           y="2.9707"
+           width="5.2916999"
+           height="0.79374999"
+           rx="0.39686999"
+           ry="0.39686999"
+           id="rect4" />
+      </g>
+      <g
+         transform="translate(-1.1906)"
+         id="g5">
+        <circle
+           cx="0.52916998"
+           cy="5.4239998"
+           r="1.1906"
+           fill="#ffcc00"
+           id="circle4" />
+        <circle
+           cx="0.52916998"
+           cy="5.4239998"
+           r="0.39686999"
+           fill="#ffff99"
+           id="circle5" />
+      </g>
+    </g>
   </g>
 </svg>
