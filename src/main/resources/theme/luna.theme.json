@@ -1215,6 +1215,8 @@
     "/studio/icons/layout-editor/palette/guideline-vertical.svg": "/images/vertical-guide.svg",
     "/studio/icons/layout-editor/palette/placeholder.svg": "/images/breakpoint.svg",
     "/studio/icons/layout-editor/palette/map-view.svg": "/images/globe.svg",
-    "/studio/icons/layout-editor/palette/ad-view.svg": "/images/cart.svg"
+    "/studio/icons/layout-editor/palette/ad-view.svg": "/images/cart.svg",
+    "/resharper/ProjectModel/MauiProject.svg": "/images/multiple-devices.svg",
+    "/resharper/expui/ProjectModel/MauiProject.svg": "/images/multiple-devices.svg"
   }
 }
