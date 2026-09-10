@@ -3,9 +3,9 @@
    inkscape:export-ydpi="6"
    inkscape:export-xdpi="6"
    inkscape:export-filename="office-chart-line.png"
-   width="256"
-   height="256"
-   viewBox="0 0 256 256"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
    version="1.1"
    id="svg8"
    inkscape:version="1.3.2 (1:1.3.2+202311252150+091e20ef0f)"
@@ -21,31 +21,31 @@
   <defs
      id="defs2">
     <marker
-       style="overflow:visible;"
+       style="overflow:visible"
        id="Arrow1Lend"
-       refX="0.0"
-       refY="0.0"
+       refX="0"
+       refY="0"
        orient="auto"
        inkscape:stockid="Arrow1Lend"
        inkscape:isstock="true">
       <path
-         transform="scale(0.8) rotate(180) translate(12.5,0)"
-         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path1222" />
     </marker>
     <marker
        style="overflow:visible"
        id="Arrow1Lstart"
-       refX="0.0"
-       refY="0.0"
+       refX="0"
+       refY="0"
        orient="auto"
        inkscape:stockid="Arrow1Lstart"
        inkscape:isstock="true">
       <path
-         transform="scale(0.8) translate(12.5,0)"
-         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path1219" />
     </marker>
     <linearGradient
@@ -102,7 +102,7 @@
        height="1.294">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="14.0875"
+         stdDeviation="0.91875"
          id="feGaussianBlur12" />
     </filter>
   </defs>
@@ -113,16 +113,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.1003949"
-     inkscape:cx="245.19199"
-     inkscape:cy="191.63063"
+     inkscape:zoom="47.526511"
+     inkscape:cx="8.0060579"
+     inkscape:cy="10.720332"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      units="px"
      inkscape:window-width="3840"
-     inkscape:window-height="2114"
+     inkscape:window-height="2052"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -174,11 +174,11 @@
      transform="translate(-12.567709)">
     <path
        id="rect1"
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000;filter:url(#filter12);opacity:0.75"
-       d="m 18.067709,0.5 a 5.0005,5.0005 0 0 0 -5,5 v 220 a 5.0005,5.0005 0 0 0 5,5 H 238.06771 a 5.0005,5.0005 0 0 0 5,-5 V 5.5 a 5.0005,5.0005 0 0 0 -5,-5 z" />
+       style="opacity:0.75;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.652174;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter12);stop-color:#000000"
+       d="M 13.393881,0.5 A 0.32611961,0.32611961 0 0 0 13.067709,0.82617188 V 15.173828 A 0.32611961,0.32611961 0 0 0 13.393881,15.5 h 14.347656 a 0.32611961,0.32611961 0 0 0 0.326172,-0.326172 V 0.82617188 A 0.32611961,0.32611961 0 0 0 27.741537,0.5 Z" />
     <g
        id="g9055"
-       transform="translate(2,2)"
+       transform="matrix(0.06521739,0,0,0.06521739,11.878511,0.13043478)"
        style="stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none">
       <rect
          style="fill:url(#linearGradient34107);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
