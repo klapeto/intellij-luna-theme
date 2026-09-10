@@ -1324,7 +1324,7 @@
     "/resharper/expui/SolutionAnalysis/FinishedErrors.svg": "/images/error.svg",
     "/resharper/Common/AIMenus16Dark.svg": "/images/wand.svg",
     "/studio/icons/avd/start-mirror.svg": "/images/multiple-devices.svg",
-    "/studio/icons/avd/stop-mirror.svg": "/images/cancel-pair.svg"
+    "/studio/icons/avd/stop-mirror.svg": "/images/cancel-pair.svg",
     "/rider/expui/debugger/SingleThread.svg": "/images/thread.svg",
     "/fileTypes/Csharp.svg": "/images/csharp.svg",
     "/expui/fileTypes/Csharp.svg": "/images/csharp.svg",
